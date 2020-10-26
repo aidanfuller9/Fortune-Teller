@@ -1,0 +1,12 @@
+body { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color:crimson;
+    color:white;
+}
+input, button { 
+    padding:10px;
+    margin:10px;
+    width: 200px;
+}
